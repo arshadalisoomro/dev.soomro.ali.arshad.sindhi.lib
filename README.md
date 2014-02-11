@@ -3,7 +3,8 @@ dev.soomro.ali.arshad.sindhi.lib
 
 This is a tiny lib for enabling Sindhi wirtting in android EditText
 
-**Usage: **
+Usage: 
+-------
 This can be used in following way :
 
 		//In onCreate() method of Activity write like this.
